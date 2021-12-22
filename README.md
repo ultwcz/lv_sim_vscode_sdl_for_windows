@@ -1,0 +1,2 @@
+# lv_sim_vscode_sdl_for_windows
+lvgl_sim_for_windows_vscode
